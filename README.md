@@ -12,7 +12,5 @@ To learn more about the Sandbox, please visit http://help.learn.co/technical-sup
 <<<<<<< HEAD
 
 
-"Hello world, we made it to wednesday."
-=======
-(hey)
->>>>>>> 95d39a6bcb715ad03e10844d3f8156e93e6b0c0d
+
+
